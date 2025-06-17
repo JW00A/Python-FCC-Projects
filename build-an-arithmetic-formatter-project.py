@@ -1,4 +1,4 @@
-** start of main.py **
+#** start of main.py **
 
 def arithmetic_arranger(problems, show_answers=False):
     if len(problems) > 5:
@@ -91,4 +91,4 @@ print(f'\n{arithmetic_arranger(["3801 - 2", "123 + 49"])}')
 print(f'\n{arithmetic_arranger(["3 + 855", "988 + 40"], True)}')
 print(f'\n{arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 + 40"], True)}')
 
-** end of main.py **
+#** end of main.py **
