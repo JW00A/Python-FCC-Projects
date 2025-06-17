@@ -1,4 +1,4 @@
-** start of main.py **
+#** start of main.py **
 
 class Rectangle:
     def __init__(self, width, height):
@@ -75,5 +75,5 @@ rect.set_height(8)
 rect.set_width(16)
 print(rect.get_amount_inside(sq))
 
-** end of main.py **
+#** end of main.py **
 
