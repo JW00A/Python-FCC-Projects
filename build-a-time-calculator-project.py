@@ -1,4 +1,4 @@
-** start of main.py **
+#** start of main.py **
 
 def add_time(start, duration, day = ''):
     days_of_week = {
@@ -104,5 +104,5 @@ print(add_time('2:59 AM', '24:00', 'saturDay'))
 print(add_time('8:16 PM', '466:02', 'tuesday'))
 print(add_time('11:59 PM', '24:05', 'Wednesday'))
 
-** end of main.py **
+#** end of main.py **
 
