@@ -1,4 +1,4 @@
-** start of main.py **
+#** start of main.py **
 
 import copy
 import random
@@ -57,5 +57,5 @@ probability = experiment(hat = hat,
                          num_experiments = 2000)
 print(probability)
 
-** end of main.py **
+#** end of main.py **
 
