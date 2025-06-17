@@ -1,4 +1,4 @@
-** start of main.py **
+#** start of main.py **
 
 class Category:
     def __init__(self, name):
@@ -65,5 +65,5 @@ def create_spend_chart(categories):
 
 print(create_spend_chart([food, clothing]))
 
-** end of main.py **
+#** end of main.py **
 
